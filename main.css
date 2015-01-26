@@ -1,0 +1,59 @@
+body, p, td, h1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a { color: #0088cc; }
+.header { 
+	padding-right: 2px; 
+	border-top: #191970 1px solid; 
+	padding: 3px; 
+	font-size: 13pt; 
+	background-color: #e5ecf9; 
+	width: 100%; 
+	margin-top: 10px;
+}
+.target {
+	font-weight: bold;  
+	text-align: left;
+}
+.summary {
+	font-size: 10pt;
+	text-align: right;
+}
+.footer {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 10pt;
+}
+.footer a 
+{
+}
+.paging {
+	text-align: center;
+}
+a.homepage {
+	font-size: 17pt;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+a.link {
+	font-size: 13pt;
+}
+.sample {
+	font-size: 10pt;
+}
+.path {
+	font-size: 10pt; 
+	color: green;
+}
+.tip {
+	padding: 2px;
+	font-size: 10pt;
+	padding: 4px;
+}
+
+.tip img 
+{
+	display:inline-block;
+	padding-top: 5px;	
+}
